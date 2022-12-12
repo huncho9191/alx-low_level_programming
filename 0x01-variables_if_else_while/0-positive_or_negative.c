@@ -1,9 +1,10 @@
-#include <stdio.h>
-#include <stdib.h>
+#include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
- * main - printf if the number is positive,negative or 0
+ * sitive_or_negative.c
+ * main - printf if the number is positive,negative or -
  * Return: Always  0 (success)
  */
 int main(void)
